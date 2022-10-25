@@ -29,3 +29,5 @@
 
 # Dependency directories
 vendor/
+
+.env
